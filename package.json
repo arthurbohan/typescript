@@ -4,6 +4,9 @@
   "description": "typescript learning app",
   "type": "module",
   "author": "arthur",
+  "scripts": {
+    "compile": "./node_modules/.bin/tsc"
+  },
   "devDependencies": {
     "@types/node": "^20.9.4",
     "tslint": "^6.1.3",
