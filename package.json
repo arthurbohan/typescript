@@ -1,4 +1,9 @@
 {
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript learning app",
+  "type": "module",
+  "author": "arthur",
   "devDependencies": {
     "@types/node": "^20.9.4",
     "tslint": "^6.1.3",
